@@ -41,8 +41,10 @@
   <a href="https://swagger.io/">
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
   </a>
-  <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="ASP.NET Core Badge" height="28">
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0" 
+       style="display: inline-flex; align-items: center; background-color: #512bd4; color: white; font-size: 14px; font-weight: bold; height: 28px; padding: 0 10px; text-decoration: none;">
+        <img src="https://www.openpolicyagent.org/img/logos/integrations/asp-dotnet-core.png" alt="ASP.NET Core" style="width: 20px; height: 20px; margin-right: 5px;">
+        <span>ASP.NET Core</span>
   </a>
 </p>
 <picture>
