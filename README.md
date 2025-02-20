@@ -47,6 +47,12 @@
            alt="ASP.NET Core" 
            style="height: 28px; width: 60px;">
   </a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/mvc/" 
+     style="display: flex; align-items: center; background-color: #0C2B62; padding: 0 10px; height: 28px; border-radius: 5px; text-decoration: none;">
+      <img src="https://tutorials.eu/wp-content/uploads/2022/03/MVC-Logo.jpg" 
+           alt="ASP.NET Core MVC" 
+           style="height: 28px; width: 60px;">
+  </a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duyvt424/Duyvt424/output/github-snake-dark.svg" />
