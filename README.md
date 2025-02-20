@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is Vu Duy and I'm a backend developer.</h2>
 <p align="left">👨🏼‍🎓  studied software developer at FPT Polytechnic from 2021 to 2024.<br>👨🏼‍💻 working as a .net backend  developer since 2022.<br>👉 go to my repository: https://github.com/Duyvt424?tab=repositories</p>
 <h2 align="left">💻 Tech Stack:</h2>
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <a href="https://devdocs.io/c/">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
   </a>
@@ -41,7 +41,7 @@
   <a href="https://swagger.io/">
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
   </a>
-  <div style="display: inline-flex; height: 28px; background-color: #0C2B62; ; align-items: center; padding: 0 10px;">
+  <div style="display: inline-flex; height: 28px; background-color: #0C2B62; align-items: center; padding: 0 10px;">
     <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0" 
        style="display: flex; align-items: center; text-decoration: none; color: white;">
         <img src="https://www.techmeet360.com/wp-content/uploads/2018/11/ASP.NET-Core-Logo.png" 
@@ -49,7 +49,7 @@
              style="height: 23px; width: 50px;">
     </a>
   </div>
-</p>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duyvt424/Duyvt424/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Duyvt424/Duyvt424/output/github-snake.svg" />
