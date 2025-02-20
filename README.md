@@ -42,16 +42,16 @@
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
   </a>
   <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0" 
-     style="display: flex; align-items: center; background-color: #0C2B62; padding: 0 10px; height: 28px; border-radius: 5px; text-decoration: none;">
+     style="display: flex; align-items: center; padding: 0 10px; height: 28px; border-radius: 5px; text-decoration: none;">
       <img src="https://www.techmeet360.com/wp-content/uploads/2018/11/ASP.NET-Core-Logo.png" 
            alt="ASP.NET Core" 
            style="height: 28px; width: 60px;">
   </a>
   <a href="https://learn.microsoft.com/en-us/aspnet/mvc/" 
-     style="display: flex; align-items: center; background-color: #00C4CC; padding: 0 10px; height: 28px; border-radius: 5px; text-decoration: none; border: 1px solid black;">
-      <img src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png" 
+     style="display: flex; align-items: center; padding: 0 10px; height: 28px; border-radius: 5px; text-decoration: none;">
+      <img src="https://www.ingeniumweb.com/in/images/aspnet-mvc-overview/3758.png" 
            alt="ASP.NET Core MVC" 
-           style="height: 28px; width: 63px; margin-top: 2%;">
+           style="height: 28px; width: 60px; margin-top: 2%;">
   </a>
 </div>
 <picture>
