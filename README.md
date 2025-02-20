@@ -41,6 +41,9 @@
   <a href="https://swagger.io/">
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="ASP.NET Core Badge" width="150">
+  </a>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duyvt424/Duyvt424/output/github-snake-dark.svg" />
