@@ -41,14 +41,12 @@
   <a href="https://swagger.io/">
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
   </a>
-  <div style="display: inline-flex; height: 28px; background-color: #0C2B62; align-items: center; padding: 0 10px;">
-    <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0" 
-       style="display: flex; align-items: center; text-decoration: none; color: white;">
-        <img src="https://www.techmeet360.com/wp-content/uploads/2018/11/ASP.NET-Core-Logo.png" 
-             alt="ASP.NET Core" 
-             style="height: 23px; width: 50px;">
-    </a>
-  </div>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0" 
+     style="display: flex; align-items: center; background-color: #0C2B62; padding: 0 10px; height: 28px; border-radius: 5px; text-decoration: none;">
+      <img src="https://www.techmeet360.com/wp-content/uploads/2018/11/ASP.NET-Core-Logo.png" 
+           alt="ASP.NET Core" 
+           style="height: 20px; width: auto;">
+  </a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duyvt424/Duyvt424/output/github-snake-dark.svg" />
