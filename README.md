@@ -45,7 +45,7 @@
      style="display: flex; align-items: center; background-color: #0C2B62; padding: 0 10px; height: 28px; border-radius: 5px; text-decoration: none;">
       <img src="https://www.techmeet360.com/wp-content/uploads/2018/11/ASP.NET-Core-Logo.png" 
            alt="ASP.NET Core" 
-           style="height: 28px; width: 50px;">
+           style="height: 28px; width: 60px;">
   </a>
 </div>
 <picture>
