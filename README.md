@@ -48,10 +48,10 @@
            style="height: 28px; width: 60px;">
   </a>
   <a href="https://learn.microsoft.com/en-us/aspnet/mvc/" 
-     style="display: flex; align-items: center; background-color: #0C2B62; padding: 0 10px; height: 28px; border-radius: 5px; text-decoration: none;">
+     style="display: flex; align-items: center; background-color: #0C2B62; padding: 0 10px; height: 28px; border-radius: 5px; text-decoration: none; border: 1px solid black;">
       <img src="https://w7.pngwing.com/pngs/713/310/png-transparent-net-mvc-logo-asp-net-mvc-logo-net-framework-model-view-controller-framework-text-logo-microsoft-azure.png" 
            alt="ASP.NET Core MVC" 
-           style="height: 28px; width: 70px; margin-top: 2%;">
+           style="height: 25px; width: 63px; margin-top: 2%;">
   </a>
 </div>
 <picture>
