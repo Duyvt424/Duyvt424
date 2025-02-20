@@ -41,11 +41,14 @@
   <a href="https://swagger.io/">
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
   </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0" 
-       style="display: inline-flex; align-items: center; background-color: #512bd4; color: white; font-size: 14px; font-weight: bold; height: 28px; padding: 0 10px; text-decoration: none;">
-        <img src="https://www.openpolicyagent.org/img/logos/integrations/asp-dotnet-core.png" alt="ASP.NET Core" style="width: 20px; height: 20px; margin-right: 5px;">
-        <span>ASP.NET Core</span>
-  </a>
+  <div style="display: inline-flex; height: 28px; background-color: #0C2B62; ; align-items: center; padding: 0 10px;">
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0" 
+       style="display: flex; align-items: center; text-decoration: none; color: white;">
+        <img src="https://www.techmeet360.com/wp-content/uploads/2018/11/ASP.NET-Core-Logo.png" 
+             alt="ASP.NET Core" 
+             style="height: 23px; width: 50px;">
+    </a>
+  </div>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duyvt424/Duyvt424/output/github-snake-dark.svg" />
