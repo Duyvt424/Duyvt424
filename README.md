@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋! My name is Vu Duy and I'm a backend developer.</h2>
 <p align="left">👨🏼‍🎓  studied software developer at FPT Polytechnic from 2021 to 2024.<br>👨🏼‍💻 working as a .net backend  developer since 2022.<br>👉 go to my repository: https://github.com/Duyvt424?tab=repositories</p>
 <h2 align="left">💻 Tech Stack:</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
